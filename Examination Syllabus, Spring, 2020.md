@@ -201,6 +201,7 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 
 9.Typical errors in constructing transactions  
 * List of typical error  
+* Methods in fixing error
 
 ## Chapter III. Exam Information
 **1.Duration:** 100 minutes per section   
@@ -209,4 +210,4 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 
 ## Chapter IV. Curriculum  
 The material covered in this exam is now included within the curriculum provided by officially appointed training agencies or learning facilities.
-	2）Methods in fixing error
+	
