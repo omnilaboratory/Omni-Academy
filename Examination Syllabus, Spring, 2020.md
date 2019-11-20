@@ -22,10 +22,10 @@ Section 6. System Maintenance
 1）History of blockchain  
 2）Main functionalities of blockchain  
 3）Major product forms   
-    * Public chain  
-    * Consortium chain  
-    * Private chain  
-    * Side chain  
+* Public chain  
+* Consortium chain  
+* Private chain  
+* Side chain  
 4）Symmetric and asymmetric cryptographic theories
 a.Elliptic curve cryptography
 b.RSA theory and algorithm 
