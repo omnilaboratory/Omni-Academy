@@ -26,38 +26,69 @@ Section 6. System Maintenance
 * Consortium chain  
 * Private chain  
 * Side chain  
-4）Symmetric and asymmetric cryptographic theories
-a.Elliptic curve cryptography
-b.RSA theory and algorithm 
-c.Hash algorithms
-d.Principle of digital signature
-5）Block, Chain and Graph
-a.Basic structure of a block
-b.Chain
-c.Hard/Soft fork
-d.Directed Acyclic Graph
-e.Merkle tree
-6）Wallet
-a.Functions of a wallet
-b.Types of wallets (code wallet, hot wallet, full node wallet, light wallet, centralized/decentralized wallet)
-c.Mnemonic words, public/private key pair
-d.Hierarchical Deterministic Wallet
-e.Process of generating mnemonic words and pub/priv key pairs
-f.Restore by mnemonic words
-g.Restore by importing private key
+4）Symmetric and asymmetric cryptographic theories    
+* Elliptic curve cryptography  
+* RSA theory and algorithm   
+* Hash algorithms  
+* Principle of digital signature  
+5）Block, Chain and Graph   
+* Basic structure of a block  
+* Chain  
+* Hard/Soft fork    
+* Directed Acyclic Graph    
+* Merkle tree    
+6）Wallet    
+* Functions of a wallet  
+* Types of wallets (code wallet, hot wallet, full node wallet, light wallet, centralized/decentralized wallet)  
+* Mnemonic words, public/private key pair  
+* Hierarchical Deterministic Wallet  
+* Process of generating mnemonic words and pub/priv key pairs  
+ Restore by mnemonic words  
+* Restore by importing private key  
 
-7）Knowledge points from Satoshi’s whitepaper
-a.“double spent” and how to solve
-b.Chain, fork
-8）CAP(consistency, availability, partition tolerance) theory and distributed database system
-a.Main modules of a database system
-b.CAP theory
-c.Eventual consistency
-9）Distributed storage, IPFS
-a.Distributed storage and centralized storage
-a)What is DropBox, centralized or distributed?
-b)Storage with Multiple clusters Vs distributed p-2-p storage
-b.Modules in a P-2-P system
-c.Distributed Hash Table, Routing, Kademlia DHT, and Coral DHT 
-d.Consensus, RAFT
-e.BitSwap Protocol
+7）Knowledge points from Satoshi’s whitepaper  
+* “double spent” and how to solve    
+* Chain, fork  
+8）CAP(consistency, availability, partition tolerance) theory and distributed database system  
+* Main modules of a database system  
+* CAP theory    
+* Eventual consistency  
+9）Distributed storage, IPFS  
+* Distributed storage and centralized storage  
+a)What is DropBox, centralized or distributed?  
+b)Storage with Multiple clusters Vs distributed p-2-p storage  
+* Modules in a P-2-P system  
+* Distributed Hash Table, Routing, Kademlia DHT, and Coral DHT   
+* Consensus, RAFT  
+* BitSwap Protocol  
+
+### Bitcoin Network and OmniLayer Specification
+
+1）Characters of Bitcoin network, consensus algorithm, block structure. etc  
+2）Proof of Work, Mining, and Reward  
+3）Deterministic Wallets，BIP 32，39，44，45，  
+4）Segregated Witness  
+* What is SegWit  
+* The purpose of SegWit  
+* The Rules of SegWit  
+5）Operation on UTXO    
+* Concept of UTXO  
+* How to use UTXO in constructing transactions  
+6）Redeemscript  
+* How redeemscript works  
+7）Address  
+8）Types of Bitcoin Transactions  
+9）Construction of transaction and validation  
+10）Principal of OmniLayer  
+* What is OmniLayer  
+* How OmniLayerworks  
+* OP_RETURN and data structure in Omnilayer specification  
+* Deployment of Omnicore  
+* RPC  
+11）OmniLayer address types and transactions  
+* OmniLayer address and Bitcoint address  
+* Transaction construction  
+* Comparison of OmniLayer transaction and Bitcoin transaction  
+* Assets on OmniLayer  
+12）Omni DEX specification  
+
