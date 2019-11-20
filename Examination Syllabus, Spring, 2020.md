@@ -67,7 +67,7 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 * Consensus, RAFT  
 * BitSwap Protocol  
 
-### Bitcoin Network and OmniLayer Specification
+### 2. Bitcoin Network and OmniLayer Specification
 
 1）Characters of Bitcoin network, consensus algorithm, block structure. etc  
 2）Proof of Work, Mining, and Reward  
@@ -103,7 +103,7 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 12）Omni DEX specification  
 
 
-### Smart Contract
+### 3. Smart Contract
 
 1）Turing completeness Vs incompleteness  
 * What is Turing Completeness  
@@ -124,7 +124,7 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 * Function modules  
 * Execution process: compile, deploy, run and validate.  
 
-### 4.Lightning Network
+### 4. Lightning Network
 
 1）Background of Layer two protocols   
 2）Principal of lightning network    
@@ -149,3 +149,64 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 * WebSocket  
 * Poon-Dryja Channel creation, exchanging, transferring, and closing  
 * Deploy and run an OBD (OmniBOLT Daemon)  
+
+
+### 5. Security of Blockchain System
+
+1.Security of Linux System  
+
+2.Private/Public key pair  
+* How to generate keys  
+* How to store keys  
+
+3.Mnemonic words, Hierarchical Deterministic Wallet    
+* HD - Hierarchical Deterministic    
+* process of generate mnemonic words  
+* Why mnemonic words   
+
+4.Security of the following Scenarios  
+* List weakness of all kinds of wallet   
+
+5.White list of OmniLayer  
+* What is whitelist system?  
+* Function of a whitelist system  
+
+### 6.System Maintenance 
+1.Maintenance of Linux system  
+
+2.How to setup an OmniLayer/BTC full node?  
+* Deploy a BTC full node    
+* Deploy an OmniLayer full node  
+
+3.How to synchronize data? What are prerequisites?  
+* Process of running a OmniLayer full node  
+* Network, port, server configuration  
+
+4.How to monitor node status?  
+* main RPC in querying node status  
+
+5.Typical error check    
+* Typical error explanation    
+* How to solve  
+
+6.How to create/maintain accounts/addresses  
+
+7.Using cli to construct BTC transaction and Omnilayer transaction  
+* RPC commands and analysis   
+* Steps in construction    
+
+8.How to query the status of transactions  
+* RPC command  
+* Using third party block explore to check the status of a curtain transaction  
+
+9.Typical errors in constructing transactions  
+* List of typical error  
+
+## Chapter III. Exam Information
+**1.Duration:** 100 minutes per section   
+**2.Score:** 100 points  
+**3.Types of Questions:** Essay-type Questions, Code snippets to proof logic   
+
+## Chapter IV. Curriculum  
+The material covered in this exam is now included within the curriculum provided by officially appointed training agencies or learning facilities.
+	2）Methods in fixing error
