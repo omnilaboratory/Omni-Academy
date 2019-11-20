@@ -1,7 +1,7 @@
-# Omni+IEEE Blockchain Examination Syllabus, Spring, 2020
+# Omni Blockchain Examination Syllabus, Spring, 2020
 
 **Subject:**  Blockchain Theory and Application    
-**Organizer:** Omni+IEEE Joint Committee on Examination  
+**Organizer:** Omni Committee on Examination  
 
 ## Chapter I. Objectives  
 There is one aim for this syllabus: to instruct relatively unsophisticated programmers/audiences to understand the background, basic theory, and application of blochchain technology, grasp fundamental concepts, technical processes, specifications and their applicable scenarios. After passing this examination, audiences shall become a specialist with ability to develop blockchain products and applications. 
@@ -22,10 +22,10 @@ Section 6. System Maintenance
 1）History of blockchain  
 2）Main functionalities of blockchain  
 3）Major product forms   
-    *.Public chain  
-    *.Consortium chain  
-    *.Private chain  
-    *.Side chain  
+    * Public chain  
+    * Consortium chain  
+    * Private chain  
+    * Side chain  
 4）Symmetric and asymmetric cryptographic theories
 a.Elliptic curve cryptography
 b.RSA theory and algorithm 
