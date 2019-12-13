@@ -205,7 +205,7 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 
 ## Chapter III. Exam Information
 **1.Duration:** 100 minutes per section   
-**2.Score:** 100 points per section
+**2.Score:** 100 points per section  
 **3.Types of Questions:** Essay-type Questions, Code snippets to proof logic   
 
 ## Chapter IV. Curriculum  
