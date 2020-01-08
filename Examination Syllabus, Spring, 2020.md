@@ -81,8 +81,12 @@ b)Storage with Multiple clusters Vs distributed p-2-p storage
 * Concept of UTXO  
 * How to use UTXO in constructing transactions  
 
-6）Redeemscript  
+6）Redeem Script  
 * How redeemscript works  
+* Multi-Signature
+* Pay To Script Hash (P2SH)
+* Time Lock
+* Conditional Clause, Verify OP
 
 7）Address  
 8）Types of Bitcoin Transactions  
